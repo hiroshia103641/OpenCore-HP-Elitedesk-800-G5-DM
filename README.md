@@ -15,8 +15,7 @@ PC name: HP Elitedesk 800 G5 DM
 
 ## OpenCore
 - OpenCore 1.0.0 2024-05-09
-
-![image](images/Screenshot OC1-0-0.png)
+![image](images/Screenshot_OC1-0-0.png)
 
 ## macOS
 - macOS Sonoma 14.6 beta
