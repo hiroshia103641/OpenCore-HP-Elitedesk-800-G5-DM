@@ -19,3 +19,12 @@ PC name: HP Elitedesk 800 G5 DM
 ## macOS
 - macOS Sonoma 14.6 beta
 
+## Status
+### Working
+- Audio (AppleALC)
+- Ethernet
+- Bluetooth
+- Wi-Fi (Airportitlwm, Sonoma_14.4Beta)
+- Sleep/wake
+- Keyboard and Mouse (USB/BT)
+
