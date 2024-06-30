@@ -123,17 +123,16 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>FQAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>mD4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -760,9 +759,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02CN01SPN5T</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>69441803-0517-4F85-85EA-5A1F5D853E20</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
